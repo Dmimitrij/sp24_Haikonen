@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Conteny-Type" content="text/html; charset=UTF-8">
+	<title>Cataloq</title>
+	<link rel="stylesheet" href='css/normalize.css' type="text/css">
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+<body>
+	<header class="page-header page-nav"><a href="" class="logo pull-left">
+  <img src="" alt="" />
+  <b>Спецтех</b>24
+  </a>
+  <nav class="main pull-right">
+  	<ul>
+  		<li><a href="">О компании.</a></li>
+  		<li><a href="">Каталог</a></li>
+  		<li><a href="">Портфолио</a></li>
+  		<li><a href="">Контакты</a></li>
+  		<li><a href="">Заказать звонок</a></li>
+  	</ul>
+  </nav>
+</header>
+<div class="subheader row">
+	<ul class="pull-left">
+		<li><a href="">Техника: Экскаваторы в аренед.</a></li>
+		<li><a href="">Voluptates, corporis.</a></li>
+	</ul>
+	<!-- /.pull-left -->
+	<a href="" class="button pull-right">Мне нужна консультация</a>
+</div>
+<!-- /.subheader row -->
+<main>
+	<p class="lead"><pre>
+	Спецтех это безотказная техника, принципиально новый уровень сервиска и качества.
+	Если вы искали идеальных партнеров на объект - Вы нашли их.
+	Что понадобится Вам сегодня?</pre></p>
+	<div class="row">
+	<div class="column third submenu">
+	<h1>Вся техника</h1>
+	<ul>
+		<li><a href="">Гусеничные экскаваторы</a></li>
+		<li class="active"><a href="">Колёсные экскаваторы</a></li>
+		<li><a href="">Мини-экскаваторы</a></li>
+		<li><a href="">Автокраны</a></li>
+		<li><a href="">Фронтальные погрузчики</a></li>
+		<li><a href="">Навесное оборудование</a></li>
+		<li><a href="">Дизельгенераторы</a></li>
+	</ul>
+	</div>
+		<div class="column third">
+			<h2>Колесный экскаватор Cat M315D</h2>
+			<img src="http://placehold.it/300x300" alt="">
+			<p class="price"><strong>25 000 /</strong><span>месяц</span></p>
+			<button-group><a href="" class="button">Арендовать<a href="" class="button button-dark">Подробнее</a></a></button-group>
+		</div>
+		<div class="column third">
+			<h2>Колесный экскаватор Cat M315D</h2>
+			<img src="http://placehold.it/300x300" alt="">
+			<p class="price"><strong>25 000 /</strong><span>месяц</span></p>
+			<button-group><a href="" class="button">Арендовать!<a href="" class="button button-dark">Подробнее</a></a></button-group>
+		</div>
+		<div class="column third">
+			<h2>Колесный экскаватор Cat M315D</h2>
+			<img src="http://placehold.it/300x300" alt="">
+			<p class="price"><strong>25 000 /</strong><span>месяц</span></p>
+			<button-group><a href="" class="button">Арендовать<a href="" class="button button-dark">Подробнее</a></a></button-group>
+		</div>
+		<div class="column third">
+			<h2>Колесный экскаватор Cat M315D</h2>
+			<img src="http://placehold.it/300x300" alt="">
+			<p class="price"><strong>25 000 /</strong><span>месяц</span></p>
+			<button-group><a href="" class="button">Арендовать<a href="" class="button button-dark">Подробнее</a></a></button-group>
+		</div>
+		<div class="column third">
+			<h2>Колесный экскаватор Cat M315D!</h2>
+			<img src="http://placehold.it/300x300" alt="">
+			<p class="price"><strong>25 000 /</strong><span>месяц</span></p>
+			<button-group><a href="" class="button">Арендовать<a href="" class="button button-dark">Подробнее</a></a></button-group>
+		</div>
+		<div class="column third">
+			<h2>Колесный экскаватор Cat M315D</h2>
+			<img src="http://placehold.it/300x300" alt="">
+			<p class="price"><strong>25 000 /</strong><span>месяц</span></p>
+			<button-group><a href="" class="button">Арендовать<a href="" class="button button-dark">Подробнее</a></a></button-group>
+		</div>
+		<div class="column third">
+			<h2>Колесный экскаватор Cat M315D</h2>
+			<img src="http://placehold.it/300x300" alt="">
+			<p class="price"><strong>25 000 /</strong><span>месяц</span></p>
+			<button-group><a href="" class="button">Арендовать<a href="" class="button button-dark">Подробнее</a></a></button-group>
+		</div>
+		<div class="column third">
+			<h2>Колесный экскаватор Cat M315D</h2>
+			<img src="http://placehold.it/300x300" alt="">
+			<p class="price"><strong>25 000 /</strong><span>месяц</span></p>
+			<button-group><a href="" class="button">Арендовать<a href="" class="button button-dark">Подробнее</a></a></button-group>
+		</div>
+	</div>
+</main>
+<footer class="page-header page-nav"><a href="" class="logo pull-left">
+  <img src="" alt="" />
+  <b>Спецтех</b>24
+  </a>
+  <nav class="main puul-right">
+  	<ul>
+  		<li><a href="">О компании.</a></li>
+  		<li><a href="">Каталог</a></li>
+  		<li><a href="">Портфолио</a></li>
+  		<li><a href="">Контакты</a></li>
+  		<li><a href="">Заказать звонок</a></li>
+  	</ul>
+  </nav>
+  </footer>
+</body>
+</html>
