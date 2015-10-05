@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio</title>
+</head>
+<body>
+<header class="page-header page-nav"><a href="" class="logo pull-left">
+  <img src="" alt="" />
+  <b>Спецтех</b>24
+  </a>
+  <nav class="main pull-right">
+    <ul>
+      <li><a href="">О компании </a></li>
+      <li><a href="">Каталог</a></li>
+      <li><a href="">Портфолио</a></li>
+      <li><a href="">Контакты</a></li>
+      <li><a href="">Заказать звонок</a></li>
+    </ul>
+  </nav>
+</header>
+<main>
+  <section class="bulding-on-the-hill first-picture">
+    <h1 class="building-home">Строительство жилого дома в деревушке на севере холма</h1>
+      <p class="building1">
+        Спецтех24 - Это сеть пунктов аренды спецтехники Cat,
+        оборудования и специализированных инструментов дл выполнения
+        большинства видов работ</p>
+       <a href class="more-info">Скачать каталог техники</a>
+  </section>
+  <section class="bulding-on-the-hill second-picture">
+    <h1 class="building-home">Строительство жилого дома в деревушке на севере холма</h1>
+      <p class="building1">
+        Спецтех24 - Это сеть пунктов аренды спецтехники Cat,
+        оборудования и специализированных инструментов дл выполнения
+        большинства видов работ</p>
+       <a href class="more-info">Скачать каталог техники</a>
+  </section>
+  <section class="bulding-on-the-hill third-picture">
+    <h1 class="building-home">Строительство жилого дома в деревушке на севере холма</h1>
+      <p class="building1">
+        Спецтех24 - Это сеть пунктов аренды спецтехники Cat,
+        оборудования и специализированных инструментов дл выполнения
+        большинства видов работ</p>
+       <a href class="more-info">Скачать каталог техники</a>
+  </section>
+   <section class="order-consalt">
+    <h2 class="title">Закажите бесплатную консультацию по подбору подходящей техники</h2>
+    <form action="" class="order-consalt-form"></form>
+  </section>
+  <div class="advantages">
+    <div class="advantages-item tools">
+      <p>Техника проходит обязательное обслуживание перед каждым выездом</p>
+    </div>
+    <div class="advantages-item worker">
+      <p>Все машины оборудованы спец. сигналами для предупреждения аварий</p>
+    </div>
+    <div class="advantages-item border">
+      <p>Привезем модные строительные ограждения к каждому заказу от 20 000</p>
+    </div>
+    <div class="advantages-item operator">
+      <p>С техникой приедут квалифицированные операторы и водители</p>
+    </div>
+  </div>
+</main>
+<footer class="page-footer page-nav"><a href="" class="logo pull-left">
+  <img src="" alt="" />
+  <b>Спецтех</b>24
+  </a>
+  <nav class="main pull-right">
+    <ul>
+      <li><a href="">О компании.</a></li>
+      <li><a href="">Каталог</a></li>
+      <li><a href="">Портфолио</a></li>
+      <li><a href="">Контакты</a></li>
+      <li><a href="">Заказать звонок</a></li>
+    </ul>
+  </nav>
+</footer>
+</body>
+</html>
