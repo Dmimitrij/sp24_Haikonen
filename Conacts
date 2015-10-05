@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <title>contacts</title>
+</head>
+<body>
+ <header class="page-header page-nav"><a href="" class="logo pull-left">
+  <img src="" alt="" />
+  <b>Спецтех</b>24
+  </a>
+  <nav class="main pull-right">
+    <ul>
+      <li><a href="">О компании.</a></li>
+      <li><a href="">Каталог</a></li>
+      <li><a href="">Портфолио</a></li>
+      <li><a href="">Контакты</a></li>
+      <li><a href="">Заказать звонок</a></li>
+    </ul>
+  </nav>
+</header>
+<main>
+<div class="conacts">
+  <h1>Котнакты</h1>
+  <p class="contact-us">Свяжитесь с нами, и всё будет хорошо</p>
+  <a href="" class="need-consalt">Мне нужна консультация</a>
+</div>
+  <div class="map-2"></div>
+  <div class="number-and-mail">
+  	<img src="" alt="">
+  		<p class="phone"><b>+7(812) 212 85 06</b></p>
+    <img src="" alt="" />
+  	<p class="mail"><b>rent@spezteh.ru</b></p>
+    <form action="" class="need-consalt"></form>
+  </div>
+  <section class="feedback">
+  	<h2>Отзывы</h2>
+    <div class="feedback-item">
+    		<img src="" alt=""/>
+    		<blockquote class="feedback-quote">
+    			<p>Спецтех - это надёжные партнёры нашей компании, которые всегда выполняют работу
+                 быстро и ещё у них отличное чувство юмора! Благодарим и рекомендуем.</p>
+    			<p class="feedback-author">Оля Молния</p>
+    		</blockquote>
+    </div>
+    <div class="feedback-item">
+    		<img src="" alt=""/>
+    		<blockquote class="feedback-quote">
+    			<p>Спецтех - это надёжные партнёры нашей компании, которые всегда выполняют работу
+                 быстро и ещё у них отличное чувство юмора! Благодарим и рекомендуем.</p>
+    			<p class="feedback-author">Оля Молния</p>
+    		</blockquote>
+    </div>
+    <div class="feedback-item">
+    		<img src="" alt=""/>
+    		<blockquote class="feedback-quote">
+    			<p>Спецтех - это надёжные партнёры нашей компании, которые всегда выполняют работу
+                 быстро и ещё у них отличное чувство юмора! Благодарим и рекомендуем.</p>
+    			<p class="feedback-author">Оля Молния</p>
+    		</blockquote>
+    </div>
+    <div class="feedback-item">
+    		<img src="" alt=""/>
+    		<blockquote class="feedback-quote">
+    			<p>Спецтех - это надёжные партнёры нашей компании, которые всегда выполняют работу
+                 быстро и ещё у них отличное чувство юмора! Благодарим и рекомендуем.</p>
+    			<p class="feedback-author">Оля Молния</p>
+    		</blockquote>
+    </div>
+      </section>
+  <footer class="page-header page-nav"><a href="" class="logo pull-left">
+  <img src="" alt="" />
+  <b>Спецтех</b>24
+  </a>
+  <nav class="main puul-right">
+    <ul>
+      <li><a href="">О компании.</a></li>
+      <li><a href="">Каталог</a></li>
+      <li><a href="">Портфолио</a></li>
+      <li><a href="">Контакты</a></li>
+      <li><a href="">Заказать звонок</a></li>
+    </ul>
+  </nav>
+  </footer>
+  </body>
+</html>
