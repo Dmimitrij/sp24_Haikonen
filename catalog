@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta http-equiv="Conteny-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="C:\Users\Дима\Desktop\Sp\css\style.css">
 	<title>Cataloq</title>
-	<link rel="stylesheet" href='css/normalize.css' type="text/css">
-	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
 	<header class="page-header page-nav"><a href="" class="logo pull-left">
