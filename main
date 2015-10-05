@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <title>Cataloq</title>
+</head>
+<body>
+<header class="page-header page-nav"><a href="" class="logo pull-left">
+  <img src="" alt="" />
+  <b>Спецтех</b>24
+  </a>
+  <nav class="main pull-right">
+    <ul>
+      <li><a href="">О компании.</a></li>
+      <li><a href="">Каталог</a></li>
+      <li><a href="">Портфолио</a></li>
+      <li><a href="">Контакты</a></li>
+      <li><a href="">Заказать звонок</a></li>
+    </ul>
+  </nav>
+</header>
+<main>
+	<section class="promo">
+		<p class="promo-title">Lorem ipsum.</p>
+		<h1 class="promo">Lorem ipsum dolor sit amet, consectetur adipisicing.</h1>
+		<a href="" class="catalog-btn">Lorem ipsum.</a>
+	</section>
+  <section class="order-consalt">
+  	<h2 class="title">Lorem ipsum.</h2>
+  	<form action="" class="order-consalt-form"></form>
+  </section>
+  <div class="advantages">
+  	<div class="advantages-item tools">
+  		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic aperiam eveniet incidunt blanditiis, eius amet.</p>
+  	</div>
+  	<div class="advantages-item worker">
+  		<p>Minus veritatis atque repellendus in aliquid veniam ducimus, commodi aut ratione. Impedit doloremque illum deserunt.</p>
+  	</div>
+  	<div class="advantages-item border">
+  		<p>Non reiciendis saepe omnis asperiores reprehenderit delectus voluptatum quaerat velit laborum. Rerum quas sed magnam.</p>
+  	</div>
+  	<div class="advantages-item operator">
+  		<p>Eligendi ex itaque earum, minus consequuntur, quam consequatur eveniet possimus recusandae aliquam dignissimos vero repudiandae.</p>
+  	</div>
+  </div>
+  <div class="technic-and-offers">
+  	<nav class="technic-nav">
+      <h2 class="subtitle">Lorem ipsum</h2>
+  		<ul>
+  			<li>Lorem.</li>
+  			<li>Alias!</li>
+  			<li>Explicabo.</li>
+  			<li>Doloremque.</li>
+  			<li>Quo!</li>
+  		</ul>
+  	</nav>
+    <section class="offers">
+    	<h2subtitle>Lorem ipsum.</h2subtitle>
+    	<table></table>
+    </section>
+  </div>
+  <div class="numbers-and-reviews">
+  	<section class="numbers">
+  		<h2 class="subtitle">Lorem ipsum.</h2>
+      <ul class="numbers-list">
+      	<li><span class="numbers-number">Lorem.</span>Lorem.</li>
+      	<li><span class="numbers-number">Sit!</span>Beatae!</li>
+      	<li><span class="numbers-number">Non?</span>Cum.</li>
+      	<li><span class="numbers-number">Voluptates.</span>Illo.</li>
+      </ul>
+  	</section>
+    <section class="reviews">
+    	<h2 class="subtitle">Lorem ipsum.</h2>
+    	<div class="reviews-item">
+    		<img src="" alt="" />
+    		<blockquote class="reviews-quote">
+    			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, corrupti?</p>
+    			<p class="reviews-author">Lorem ipsum.</p>
+    		</blockquote>
+    	</div>
+    	<div class="reviews-item">
+    		<img src="" alt="" />
+    		<blockquote class="reviews-quote">
+    			<p>Eveniet aliquam sapiente ea necessitatibus obcaecati, dolor quisquam, deleniti accusantium.</p>
+    			<p class="reviews-author">Cumque, harum.</p>
+    		</blockquote>
+    	</div>
+    </section>
+    <div class="map"></div>
+  </div>
+</main>
+<footer class="page-header page-nav"><a href="" class="logo pull-left">
+  <img src="" alt="" />
+  <b>Спецтех</b>24
+  </a>
+  <nav class="main puul-right">
+    <ul>
+      <li><a href="">О компании.</a></li>
+      <li><a href="">Каталог</a></li>
+      <li><a href="">Портфолио</a></li>
+      <li><a href="">Контакты</a></li>
+      <li><a href="">Заказать звонок</a></li>
+    </ul>
+  </nav>
+  </footer>
+</body>
+</html>
