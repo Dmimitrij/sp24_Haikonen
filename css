@@ -1,0 +1,75 @@
+
+
+
+
+/*//////////////////////////////// */
+
+/* BODY	*/
+
+/*//////////////////////////////// */
+
+
+
+/*//////////////////////////////// */
+
+/* LAYOUT*/
+
+/*//////////////////////////////// */
+
+
+.somit {
+	
+}
+.container{
+	width: 960px;
+	margin: 00px auto;
+}
+.row{overflow: hidden;}
+
+.column {
+	float: left;
+	margin: 1%;
+}
+
+.column:first-child {margin-left: 0;}
+.column:last-child: {margin-right: 0;}
+
+.third{
+	width: 32%;
+}
+.pull-left {
+	float: left;
+}
+.pull-right{
+	float: right;
+	
+}
+
+/*//////////////////////////////// */
+
+/* HEADER*/
+
+/*//////////////////////////////// */
+
+.logo * {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+/*//////////////////////////////// */
+
+/* SUBHEADER */
+
+/*//////////////////////////////// */
+.breadcrums {padding-left: 0;}
+.breadcrums li {display: inline-block;}
+
+/*//////////////////////////////// */
+
+/* NAV MENU*/
+
+/*//////////////////////////////// */
+
+.nav-main ul {padding-left: 0;}
+.nav-main li {display: inline-block;
+}
